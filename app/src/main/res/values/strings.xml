@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">share-udn-android</string>
+    <string name="error">error</string>
 </resources>
